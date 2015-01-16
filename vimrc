@@ -7,7 +7,6 @@ set smartcase
 set hls
 
 " indenting
-" I have a love-hate relationship with AI/SI... if only it really chilled out during pastes
 filetype indent on
 set ai
 set smartindent
